@@ -1,0 +1,44 @@
+/* Navbar container styles */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  .navbar-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+  
+  /* Application title styles */
+  .app-title {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  /* Navigation links styles */
+  .nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-link {
+    margin-left: 20px;
+  }
+  
+  .link-text {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    transition: color 0.3s;
+  }
+  
+  .link-text:hover {
+    color: #00bcd4; /* Change the color on hover */
+  }  

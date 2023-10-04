@@ -1,0 +1,46 @@
+/* WordDetails container styles */
+.word-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Heading styles */
+  .word-details h1 {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  /* Phonetic styles */
+  .word-details p {
+    font-size: 18px;
+  }
+  
+  /* Phonetics styles */
+  .word-details audio {
+    margin-top: 10px;
+  }
+  
+  /* Meanings styles */
+  .word-details h2 {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  /* Part of speech styles */
+  .word-details p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  /* Definitions styles */
+  .word-details ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .word-details li {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
